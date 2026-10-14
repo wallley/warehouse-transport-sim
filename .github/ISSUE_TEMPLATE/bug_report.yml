@@ -1,0 +1,24 @@
+name: 问题反馈
+description: 提供可复现的环境与操作，帮助定位构建或仿真问题。
+body:
+  - type: textarea
+    id: environment
+    attributes:
+      label: 运行环境
+      description: 操作系统、编译器、CMake / EasyX 版本以及构建方式。
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤
+      description: 运行命令、随机种子、车辆数、模式以及发生问题的操作。
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: 预期与实际现象
+      description: 贴日志前请移除个人信息和本机完整路径。
+    validations:
+      required: true
