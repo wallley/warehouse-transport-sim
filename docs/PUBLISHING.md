@@ -1,6 +1,8 @@
 # GitHub 发布与维护
 
-公开仓库目标为 [wallley/warehouse-transport-sim](https://github.com/wallley/warehouse-transport-sim)，项目采用 [MIT License](../LICENSE)。本页说明首次推送及后续维护操作；远程内容是否已经更新，应以 GitHub 页面和实际推送结果为准。
+项目已公开发布至 [wallley/warehouse-transport-sim](https://github.com/wallley/warehouse-transport-sim)，默认分支为 `main`，采用 [MIT License](../LICENSE)。首次发布与核验于 2026-10-15 完成，学校课程简介、11 个 Topics、README 及真实界面图均已配置。以下操作供后续维护或迁移时参考。
+
+首次实现提交 `1a88e9e` 的 45 个远端文件已通过匿名读取逐项比对；Windows 与 Ubuntu 的核心构建和测试均[通过 GitHub Actions](https://github.com/wallley/warehouse-transport-sim/actions/runs/38599368723)。此记录针对该提交；后续版本以对应提交的检查结果为准。
 
 ## 仓库展示
 

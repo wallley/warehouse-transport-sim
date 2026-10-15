@@ -5,6 +5,7 @@
 [![C++17](https://img.shields.io/badge/C%2B%2B-17-00599C?logo=cplusplus)](CMakeLists.txt)
 [![GUI](https://img.shields.io/badge/GUI-Windows%20%2B%20EasyX-7B2CBF)](docs/USAGE.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Build and test](https://github.com/wallley/warehouse-transport-sim/actions/workflows/build.yml/badge.svg)](https://github.com/wallley/warehouse-transport-sim/actions/workflows/build.yml)
 
 **108 条运输订单，18 个站点，3 / 5 / 7 辆穿梭车。** 从车辆启停、货物准备到订单分配，用一个可运行的 C++ 项目观察仓储运输系统如何协同工作。
 
